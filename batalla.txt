@@ -1,2 +1,7 @@
 soy jugador 1
 he iniciado la guerra
+
+soy jugador 2
+he iniciado la guerra
+
+peleare lo mejor que pueda
